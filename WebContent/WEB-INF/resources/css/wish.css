@@ -1,0 +1,41 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+}
+body {
+   width: 100%;
+}
+table,
+th,
+td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+.busi-search-table {
+   margin-top: 20px;
+}
+.container {
+  
+}
+.header-title {
+   font-size: 24px;
+   margin-bottom: 15px;
+}
+.wrap {
+   display: flex;
+}
+#left {
+   margin-right: 20px;
+}
+.busi-search-form {
+   border: 1px solid black;
+   padding: 20px;
+}
+
+#right {
+   border: 1px solid black;
+   padding: 5px 20px;
+}
+.row-group {
+   display: flex;
+}
